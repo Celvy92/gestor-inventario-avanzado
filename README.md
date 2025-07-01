@@ -1,12 +1,29 @@
-# React + Vite
+# 🚀 Proyecto 6: Hooks Avanzados en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto forma parte de la práctica número 6 del taller de React. Se construyó una aplicación funcional utilizando hooks avanzados como `useReducer`, `useRef` y `useCallback`, aplicados en un **gestor de inventario** o un **contador interactivo** para e-commerce.
 
-Currently, two official plugins are available:
+## 🎯 Objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El objetivo de este proyecto es aprender a:
+- Utilizar `useReducer` para gestionar estados complejos.
+- Aplicar `useRef` para acceder a elementos del DOM sin provocar re-renderizados.
+- Optimizar funciones con `useCallback` para evitar recreaciones innecesarias.
+- Construir una aplicación completa con React y Vite.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- CSS
+- Hooks: `useReducer`, `useRef`, `useCallback`
+
+## 📸 Captura de pantalla
+
+![Preview del Proyecto](./src/assets/preview.jpg) <!-- Cambia esto si subes una captura -->
+
+## ⚙️ Instalación y uso
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Celvy92/nombre-del-repo.git
+   cd nombre-del-repo
